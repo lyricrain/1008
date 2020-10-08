@@ -7,7 +7,6 @@
 <title>list</title>
 </head>
 <body>
-
 list 2 3
 </body>
 </html>
